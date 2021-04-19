@@ -1,4 +1,4 @@
-#Aircall Technical Test
+## Aircall Technical Test
 
 The goal of this test is to implement an in-house alert notification system.
 
